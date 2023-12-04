@@ -1,0 +1,40 @@
+@media screen and (max-width:1200px) {
+    .services {
+        width: 20%;
+    }
+
+}
+
+
+@media screen and (max-width:992px) {
+    .services {
+        width: 25%;
+    }
+}
+
+
+@media screen and (max-width:768px) {
+    .services {
+        width: 33.333%;
+    }
+}
+
+
+@media screen and (max-width:600px) {
+
+    .box,
+    .services {
+        width: 50%;
+    }
+}
+
+
+@media screen and (max-width:480px) {
+
+    .box,
+    .gallery-item,
+    .services {
+        width: 100%;
+    }
+
+}
